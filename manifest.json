@@ -1,0 +1,12 @@
+{
+    "name": "IPL Chrome Extension",
+    "version": "1.0.0",
+    "description": "Check scores mate" ,
+    "manifest_version": 3,
+    "author": "Aniket Kundu",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "IPL Chrome Extension"
+    }
+
+}
